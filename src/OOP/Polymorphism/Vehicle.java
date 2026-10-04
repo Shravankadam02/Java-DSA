@@ -1,4 +1,4 @@
-package OOP;
+package OOP.Polymorphism;
 
 public class Vehicle {
     public String Brand;

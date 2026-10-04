@@ -1,8 +1,6 @@
-package OOP;
+package OOP.Polymorphism;
 
-import java.sql.SQLOutput;
-
-public class Car extends Vehicle{
+public class Car extends Vehicle {
 
     public int noOfDoors;
     public String transmissionType;

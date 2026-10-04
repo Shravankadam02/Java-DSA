@@ -1,4 +1,4 @@
-package OOP;
+package OOP.Polymorphism;
 
 public class MotorCycle extends Vehicle {
     public String handleType;
