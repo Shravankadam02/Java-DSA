@@ -13,5 +13,6 @@ public class SumofNums {
 
         }
         System.out.println(sum);
+
     }
 }
