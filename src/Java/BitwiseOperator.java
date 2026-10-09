@@ -17,14 +17,26 @@ public class BitwiseOperator {
 
         //Check if number is even or odd using bitwise operator
 
-        int a = 7;
+//        int a = 7;
+//
+//        if((a & 1) == 0){
+//            System.out.println(" " + a + " " + "is even number");
+//        }
+//        else{
+//            System.out.println(" " + a + " " + "is odd number");
+//        }
 
-        if((a & 1) == 0){
-            System.out.println(" " + a + " " + "is even number");
-        }
-        else{
-            System.out.println(" " + a + " " + "is odd number");
-        }
+        //Swap two numbers using bitwise XOR
+
+//        int a =12;
+//        int b = 45;
+//
+//        a = a ^ b ;
+//        b = a ^ b ;
+//        a = a ^ b ;
+//
+//        System.out.println( a + " " + b);
+
 
 
     }
